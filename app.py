@@ -159,7 +159,7 @@ class App(CTk.CTk):
 
         self.add_button = CTk.CTkButton(
             master=self.main_frame,
-            text="Add",
+            text="Trener",
             command=self.add_notification,
             fg_color="blue",
             hover_color="darkblue",
